@@ -40,6 +40,18 @@ Becoming a better software engineer at [42 Wolfsburg](https://42wolfsburg.de/) a
 | 30 | [Exam Rank 06]()                                      | 🔒 | check understanding of ??? |
 | 31 | [ft_transendence]()                                   | 🔒 | create real-time multiplayer online pong game using web technology |
 
+<!--
+## Personal project table
+-->
+
+## 🔥 Git Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SuperDulli&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![SuperDulli's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperDulli&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperDulli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **SuperDulli/SuperDulli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
