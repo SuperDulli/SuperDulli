@@ -12,13 +12,13 @@ Becoming a better software engineer at [42 Wolfsburg](https://42wolfsburg.de/) a
 | 2  | [get_next_line](../../../get_next_line)               | ✅ | read a file line by line |
 | 3  | [ft_printf]()                                         | ✅ | my own version of the printf function |
 | 4  | [Born2beRoot](../../../Born2beRoot)                   | ✅ | intro to virtualization with Debian on VirtualBox |
-| 5  | [exam_rank_02](../../../exam_rank_02)                 | ✅ | check understanding of get_next_line/ft_printf |
+| 5  | [exam_rank_02](../../../42_exam_rank_02)              | ✅ | check understanding of get_next_line/ft_printf |
 | 6  | [push_swap](../../../push_swap)                       | ✅ | sorting with two stacks in the fewest moves |
 | 7  | [so_long](../../../so_long)                           | ✅ | small 2D game with minilibx |
 | 8  | [minitalk](../../../minitalk)                         | ✅ | small chat application using UNIX signals |
 | 9  | [philosophers](../../../philosophers)                 | ✅ | solve dying philosopher problem - multithreading |
 | 10 | [minishell](https://github.com/lmarquar/42_minishell) | ✅ | simple bash-like shell |
-| 11 | [exam_rank_03](../../../exam_rank_02)                 | ✅ | check understanding of get_next_line/ft_printf |
+| 11 | [exam_rank_03](../../../42_exam_rank_02)              | ✅ | check understanding of get_next_line/ft_printf |
 | 12 | [NetPractice]()                                       | ✅ | basics of IP networks and subnetting |
 | 13 | [CPP Module 00](../../../CPP_Module00)                | ✅ | intro to C++, megaphone, PhoneBook, Account |
 | 14 | [CPP Module 01](../../../CPP_Module01)                | ✅ | memory allocation, references, pointer to members and switch statement |
