@@ -2,6 +2,18 @@
 
 Becoming a better software engineer at [42 Wolfsburg](https://42wolfsburg.de/) and decide in which area of computer science to special in. Currently I learning ways that make me more productive by automating repetitive tasks.
 
+## ❓ What is 42 Wolfsburg
+
+42 Wolfsburg describes itself as the *Hogwarts for software engineers*. But it's not your typical school with teachers, lectures, tuition fees and high entry barriers.
+We learn based on the peer-to-peer model, where everybody is a teacher and a learner at the same time. The school is there to support us with this by providing the space and infrastructure to house the community. Further it provides the (coding) projects we have to solve - often in small groups of two to three peers. The project description specifies what the result should look like but not how to get there. To learn about new topics we use the resources from other students, industry experts and our library.
+
+After project completion, a couple of other peers will take a look at the project and give feedback.
+Completed projects grant experience points that is used to unlock more advanced projects, if you can also pass the exams that will put your skills to the test: Can you solve the problem again but with out any external help?
+Failing is part of the learning journey; so there is nothing bad about not managing to successfully complete a project or exam - You just try it again when you worked out what you missed / did not understood yet.
+
+The curriculum, that defines the projects, aims to prepare us to become a successful software engineer by covering the basics and also being constantly updated to stay relevant. It has proven itself and is used in sister 42 schools in over 20 countries all over the world.
+We learn the basics in the *Core* that takes around 12-18 months to complete, where the focus is on learning the programming languages C and C++, as well as understanding how Unix operating systems and common algorithms work. During that we also learn how to efficiently learn. That's an important skill to have in this industry. And this is also where we will go next. Taking an internship (minimum 4 moths) to learn things we can't really learn in school. After that we can come back to the school to specialize in a certain area of computer science and help grow the community around the school.
+
 ## 📈 42 Core Curriculum Project Progress
 
 [GitHub Project Page](https://github.com/users/SuperDulli/projects/1/views/1)
@@ -39,6 +51,7 @@ Becoming a better software engineer at [42 Wolfsburg](https://42wolfsburg.de/) a
 | 29 | [Exam Rank 05]()                                      | 🔒 | check understanding of C++ |
 | 30 | [ft_transendence]()                                   | 🔒 | create real-time multiplayer online pong game using web technology |
 | 31 | [Exam Rank 06]()                                      | 🔒 | check understanding of ??? |
+| 32 | Internship                                            | 🔒 | acquire real-world experience as a software engineer |
 
 ## Personal projects
 
