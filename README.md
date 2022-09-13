@@ -51,6 +51,31 @@ Becoming a better software engineer at [42 Wolfsburg](https://42wolfsburg.de/) a
 | [RiddelsApp](../../../MyRiddlesApplication) | ✅ | Android app that displays an English riddle and solution |
 
 
+## 🛠️ Languages and Tools
+
+<code>
+<head>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</head>
+<body>
+<div>
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" />&nbsp;
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" />&nbsp;
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus"/>&nbsp;
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" title="Android" alt="Android" />&nbsp;
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" />&nbsp;
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin"/>&nbsp;
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" />&nbsp;
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript"/>&nbsp;
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" />&nbsp;
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Github" alt="Github" />&nbsp;
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" />&nbsp;
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" />&nbsp;
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker" alt="Docker" />&nbsp;
+</div>
+</body>
+</code>
+
 ## 🔥 Git Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SuperDulli&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
