@@ -2,7 +2,7 @@
 
 Becoming a better software engineer at [42 Wolfsburg](https://42wolfsburg.de/) and decide in which area of computer science to special in. Currently I learning ways that make me more productive by automating repetitive tasks.
 
-## 📈 42 Core Curriculum Progress
+## 📈 42 Core Curriculum Project Progress
 
 [GitHub Project Page](https://github.com/users/SuperDulli/projects/1/views/1)
 
@@ -28,7 +28,7 @@ Becoming a better software engineer at [42 Wolfsburg](https://42wolfsburg.de/) a
 | 18 | [CPP Module 05](../../../CPP_Module05)                | ✅ | exceptions + try/catch on the example of bureaucrats and forms |
 | 19 | [CPP Module 06](../../../CPP_Module06)                | ✅ | C++ casts |
 | 20 | [CPP Module 07](../../../CPP_Module07)                | ✅ | templates |
-| 21 | [CPP Module 08](../../../CPP_Module08)                | ✅ |  templated containers, iterators and algorithms |
+| 21 | [CPP Module 08](../../../CPP_Module08)                | ✅ | templated containers, iterators and algorithms |
 | 22 | [exam_rank_04]()                                      | ✅ | microshell checks understanding parsing, forks and pipes |
 | 23 | [miniRT]()                                            | 🛠️ | raytracing with spheres, planes, cylinders and lighting |
 | 24 | [Professional Portfolio]()                            | 🛠️ | presenting myself to be able to sell my labour |
@@ -37,12 +37,19 @@ Becoming a better software engineer at [42 Wolfsburg](https://42wolfsburg.de/) a
 | 27 | [webserv]()                                           | 🔒 | create my own HTTP server |
 | 28 | [ft_irc]()                                            | 🔒 | create my own IRC sever in C++ |
 | 29 | [Exam Rank 05]()                                      | 🔒 | check understanding of C++ |
-| 30 | [Exam Rank 06]()                                      | 🔒 | check understanding of ??? |
-| 31 | [ft_transendence]()                                   | 🔒 | create real-time multiplayer online pong game using web technology |
+| 30 | [ft_transendence]()                                   | 🔒 | create real-time multiplayer online pong game using web technology |
+| 31 | [Exam Rank 06]()                                      | 🔒 | check understanding of ??? |
 
-<!--
-## Personal project table
--->
+## Personal projects
+
+ Project                                           | Status | Description |
+| :---------------------------------------------------: | :-: | :---------- |
+ | [DominionCards](../../../DominionCards) | 🧊 | Android app to look up cards from the card game [Dominion](https://www.riograndegames.com/games/dominion/) |
+| [Advent_of_Code](../../../Advent_of_Code) | ✅ | my solutions for some of the coding puzzles from the [Advent of Code](https://adventofcode.com/) 2021 event |
+| [TicTacToeMinimax](../../../TicTacToeMinimax) | ✅ | p5.js web page to play TicTacToe against the computer with perfect strategy |
+| [DecisionTree](../../../DesicionTree) | ✅ | p5.js web page to learn about Decision Trees and Information gain |
+| [RiddelsApp](../../../MyRiddlesApplication) | ✅ | Android app that displays an English riddle and solution |
+
 
 ## 🔥 Git Stats
 
