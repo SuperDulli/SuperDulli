@@ -76,6 +76,12 @@ Becoming a better software engineer at [42 Wolfsburg](https://42wolfsburg.de/) a
 </body>
 </code>
 
+## 📫 Contact me
+
+<a href="https://www.linkedin.com/in/chris-helmerding/">
+	<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" />
+</a>
+
 ## 🔥 Git Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SuperDulli&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
