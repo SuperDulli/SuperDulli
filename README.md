@@ -16,6 +16,8 @@ We learn the basics in the *Core* that takes around 12-18 months to complete, wh
 
 ## 📈 42 Core Curriculum Project Progress
 
+[![chelmerd's 42 stats](https://badge42.vercel.app/api/v2/cl75zpjlu00060hmp726o39v7/stats?cursusId=21&coalitionId=149)](https://github.com/JaeSeoKim/badge42)
+
 [GitHub Project Page](https://github.com/users/SuperDulli/projects/1/views/1)
 
 | No  | Project                                           | Status | Description |
@@ -60,7 +62,7 @@ We learn the basics in the *Core* that takes around 12-18 months to complete, wh
  | [DominionCards](../../../DominionCards) | 🧊 | Android app to look up cards from the card game [Dominion](https://www.riograndegames.com/games/dominion/) |
 | [Advent_of_Code](../../../Advent_of_Code) | ✅ | my solutions for some of the coding puzzles from the [Advent of Code](https://adventofcode.com/) 2021 event |
 | [TicTacToeMinimax](../../../TicTacToeMinimax) | ✅ | p5.js web page to play TicTacToe against the computer with perfect strategy |
-| [DecisionTree](../../../DesicionTree) | ✅ | p5.js web page to learn about Decision Trees and Information gain |
+| [DecisionTree](../../../DecisionTree) | ✅ | p5.js web page to learn about Decision Trees and Information gain |
 | [RiddelsApp](../../../MyRiddlesApplication) | ✅ | Android app that displays an English riddle and solution |
 
 
