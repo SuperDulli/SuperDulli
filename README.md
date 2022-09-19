@@ -68,12 +68,10 @@ We learn the basics in the *Core* that takes around 12-18 months to complete, wh
 
 ## 🛠️ Languages and Tools
 
-<code>
 <head>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </head>
 <body>
-<div>
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" />&nbsp;
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" />&nbsp;
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus"/>&nbsp;
@@ -87,9 +85,7 @@ We learn the basics in the *Core* that takes around 12-18 months to complete, wh
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" />&nbsp;
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" />&nbsp;
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker" alt="Docker" />&nbsp;
-</div>
 </body>
-</code>
 
 ## 📫 Contact me
 
