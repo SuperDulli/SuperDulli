@@ -44,7 +44,7 @@ We learn the basics in the *Core* that takes around 12-18 months to complete, wh
 | 20 | [CPP Module 07](../../../CPP_Module07)                | ✅ | templates |
 | 21 | [CPP Module 08](../../../CPP_Module08)                | ✅ | templated containers, iterators and algorithms |
 | 22 | [exam_rank_04]()                                      | ✅ | microshell checks understanding parsing, forks and pipes |
-| 23 | [miniRT]()                                            | 🛠️ | raytracing with spheres, planes, cylinders and lighting |
+| 23 | [miniRT](../../../mini_rt)                                            | ✅ | raytracing with spheres, planes, cylinders and lighting |
 | 24 | [Professional Portfolio]()                            | 🛠️ | presenting myself to be able to sell my labour |
 | 25 | [ft_containers]()                                     | 🔒 | re-implement C++ containers (vector, map, stack, iterators, etc.) |
 | 26 | [inception]()                                         | 🔒 | virtualize several docker images |
