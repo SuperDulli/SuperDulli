@@ -46,11 +46,11 @@ We learn the basics in the *Core* that takes around 12-18 months to complete, wh
 | 22 | [exam_rank_04]()                                      | ✅ | microshell checks understanding parsing, forks and pipes |
 | 23 | [miniRT](../../../mini_rt)                                            | ✅ | raytracing with spheres, planes, cylinders and lighting |
 | 24 | [Professional Portfolio]()                            | 🛠️ | presenting myself to be able to sell my labour |
-| 25 | [ft_containers]()                                     | 🔒 | re-implement C++ containers (vector, map, stack, iterators, etc.) |
-| 26 | [inception]()                                         | 🔒 | virtualize several docker images |
+| 25 | [ft_containers](../../../ft_containers)               | ✅ | re-implement C++ containers (vector, map, stack, iterators, set) |
+| 26 | [inception]()                                         | 🛠️ | virtualize several docker images |
 | 27 | [webserv]()                                           | 🔒 | create my own HTTP server |
 | 28 | [ft_irc]()                                            | 🔒 | create my own IRC sever in C++ |
-| 29 | [Exam Rank 05]()                                      | 🔒 | check understanding of C++ |
+| 29 | [Exam Rank 05]()                                      | ✅ | check understanding of C++ |
 | 30 | [ft_transendence]()                                   | 🔒 | create real-time multiplayer online pong game using web technology |
 | 31 | [Exam Rank 06]()                                      | 🔒 | check understanding of ??? |
 | 32 | Internship                                            | 🔒 | acquire real-world experience as a software engineer |
