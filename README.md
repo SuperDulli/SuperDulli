@@ -52,7 +52,7 @@ We learn the basics in the *Core* that takes around 12-18 months to complete, wh
 | 28 | [ft_irc]()                                            | ✅ | create my own IRC sever in C++ |
 | 29 | [Exam Rank 05]()                                      | ✅ | check understanding of C++ |
 | 30 | [ft_transendence]()                                   | 🛠️ | create real-time multiplayer online pong game using web technology |
-| 31 | [Exam Rank 06]()                                      | 🛠️ | check understanding of ??? |
+| 31 | [Exam Rank 06]()                                      | 🛠️ | check understanding of non-blocking server communication with sockets |
 | 32 | Internship                                            | 🔒 | acquire real-world experience as a software engineer |
 
 ## Personal projects
