@@ -49,10 +49,10 @@ We learn the basics in the *Core* that takes around 12-18 months to complete, wh
 | 25 | [ft_containers](../../../ft_containers)               | ✅ | re-implement C++ containers (vector, map, stack, iterators, set) |
 | 26 | [inception]()                                         | ✅ | virtualize several docker images |
 | 27 | [webserv]()                                           | 🔒 | create my own HTTP server |
-| 28 | [ft_irc]()                                            | ✅ | create my own IRC sever in C++ |
+| 28 | [ft_irc](https://github.com/mr-bammby/ft_irc)         | ✅ | create my own IRC sever in C++ |
 | 29 | [Exam Rank 05]()                                      | ✅ | check understanding of C++ |
 | 30 | [ft_transcendence](../../../ft_transcendence)         | 🛠️ | create real-time multiplayer online pong game using web technology |
-| 31 | [Exam Rank 06]()                                      | 🧊 | check understanding of non-blocking server communication with sockets |
+| 31 | [Exam Rank 06](../../../42_exam_rank_06)              | ✅ | check understanding of non-blocking server communication with sockets |
 | 32 | Internship                                            | 🛠️ | acquire real-world experience as a software engineer |
 
 ## Personal projects
