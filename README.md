@@ -1,6 +1,16 @@
-## 🚩 Current Mission
+# Welcome to my Profile
 
-Becoming a better software engineer at [42 Wolfsburg](https://42wolfsburg.de/) and decide in which area of computer science to special in. Currently I learning ways that make me more productive by automating repetitive tasks.
+Here you can find my side projects and the ones I did as a student of 42 Wolfsburg.
+
+## Personal projects
+
+ Project                                           | Status | Description |
+| :---------------------------------------------------: | :-: | :---------- |
+ | [DominionCards](../../../DominionCards) | 🧊 | Android app to look up cards from the card game [Dominion](https://www.riograndegames.com/games/dominion/) |
+| [Advent_of_Code](../../../Advent_of_Code) | ✅ | my solutions for some of the coding puzzles from the [Advent of Code](https://adventofcode.com/) events |
+| [TicTacToeMinimax](../../../TicTacToeMinimax) | ✅ | p5.js web page to play TicTacToe against the computer with perfect strategy |
+| [DecisionTree](../../../DecisionTree) | ✅ | p5.js web page to learn about Decision Trees and Information gain |
+| [RiddelsApp](../../../MyRiddlesApplication) | ✅ | Android app that displays an English riddle and solution |
 
 ## ❓ What is 42 Wolfsburg
 
@@ -15,10 +25,6 @@ The curriculum, that defines the projects, aims to prepare us to become a succes
 We learn the basics in the *Core* that takes around 12-18 months to complete, where the focus is on learning the programming languages C and C++, as well as understanding how Unix operating systems and common algorithms work. During that we also learn how to efficiently learn. That's an important skill to have in this industry. And this is also where we will go next. Taking an internship (minimum 4 moths) to learn things we can't really learn in school. After that we can come back to the school to specialize in a certain area of computer science and help grow the community around the school.
 
 ## 📈 42 Core Curriculum Project Progress
-
-[![chelmerd's 42 stats](https://badge42.vercel.app/api/v2/cl75zpjlu00060hmp726o39v7/stats?cursusId=21&coalitionId=149)](https://github.com/JaeSeoKim/badge42)
-
-[GitHub Project Page](https://github.com/users/SuperDulli/projects/1/views/1)
 
 | No  | Project                                           | Status | Description |
 | :- | :---------------------------------------------------: | :-: | :---------- |
@@ -51,20 +57,9 @@ We learn the basics in the *Core* that takes around 12-18 months to complete, wh
 | 27 | [webserv]()                                           | 🔒 | create my own HTTP server |
 | 28 | [ft_irc](https://github.com/mr-bammby/ft_irc)         | ✅ | create my own IRC sever in C++ |
 | 29 | [Exam Rank 05]()                                      | ✅ | check understanding of C++ |
-| 30 | [ft_transcendence](../../../ft_transcendence)         | 🛠️ | create real-time multiplayer online pong game using web technology |
+| 30 | [ft_transcendence](../../../ft_transcendence)         | ✅ | create real-time multiplayer online pong game using web technology |
 | 31 | [Exam Rank 06](../../../42_exam_rank_06)              | ✅ | check understanding of non-blocking server communication with sockets |
 | 32 | Internship                                            | 🛠️ | acquire real-world experience as a software engineer |
-
-## Personal projects
-
- Project                                           | Status | Description |
-| :---------------------------------------------------: | :-: | :---------- |
- | [DominionCards](../../../DominionCards) | 🧊 | Android app to look up cards from the card game [Dominion](https://www.riograndegames.com/games/dominion/) |
-| [Advent_of_Code](../../../Advent_of_Code) | ✅ | my solutions for some of the coding puzzles from the [Advent of Code](https://adventofcode.com/) 2021 event |
-| [TicTacToeMinimax](../../../TicTacToeMinimax) | ✅ | p5.js web page to play TicTacToe against the computer with perfect strategy |
-| [DecisionTree](../../../DecisionTree) | ✅ | p5.js web page to learn about Decision Trees and Information gain |
-| [RiddelsApp](../../../MyRiddlesApplication) | ✅ | Android app that displays an English riddle and solution |
-
 
 ## 🛠️ Languages and Tools
 
