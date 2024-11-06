@@ -7,7 +7,7 @@ Here you can find my side projects and the ones I did as a student of 42 Wolfsbu
  Project                                           | Status | Description |
 | :---------------------------------------------------: | :-: | :---------- |
  | [DominionCards](../../../DominionCards) | 🧊 | Android app to look up cards from the card game [Dominion](https://www.riograndegames.com/games/dominion/) |
-| [Advent_of_Code](../../../Advent_of_Code) | ✅ | my solutions for some of the coding puzzles from the [Advent of Code](https://adventofcode.com/) events |
+| [Advent_of_Code](../../../advent-of-code) | ✅ | my solutions for some of the coding puzzles from the [Advent of Code](https://adventofcode.com/) events |
 | [TicTacToeMinimax](../../../TicTacToeMinimax) | ✅ | p5.js web page to play TicTacToe against the computer with perfect strategy |
 | [DecisionTree](../../../DecisionTree) | ✅ | p5.js web page to learn about Decision Trees and Information gain |
 | [RiddelsApp](../../../MyRiddlesApplication) | ✅ | Android app that displays an English riddle and solution |
